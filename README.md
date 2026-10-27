@@ -1,16 +1,23 @@
-## Hi there 👋
+<img align="right" src="https://count.getloli.com/@huang0732?theme=moebooru" alt="主页访问计数" width="280" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1500&color=36BCF7&width=420&lines=👋Hi+~+I%27m+huang0732)](https://github.com/huang0732)
+
+🌱 非科班研究生学习中。
+
+📖 方向：多模态推荐。
 
 <!--
-**huang0732/huang0732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+表情
+学习、成长
+🌱 🌿 🌳 📚 📖 ✏️ 🎓
+编程、项目
+💻 ⌨️ 🛠️ ⚙️ 🤖 🧑‍💻
+求职、联系
+💼 🎯 📫 📧 🤝
+目标、进展
+🚀 🔥 ⭐ ✨ 🏆 💡
+兴趣、日常
+☕ 🎮 🎧 🎵 🐱 🐾
+打招呼、心情
+👋 🙌 😄 😊 🥳 ❤️
 -->
